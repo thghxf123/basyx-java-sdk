@@ -171,11 +171,6 @@
     		<artifactId>logback-classic</artifactId>
     		<version>1.4.6</version>
 		</dependency>
-		<dependency>
-		    <groupId>org.apache.commons</groupId>
-		    <artifactId>commons-compress</artifactId>
-		    <version>1.21</version>
-		</dependency>
 		
 		<!-- JUnit 4 for running JUnit tests -->
 		<dependency>
