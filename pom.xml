@@ -176,6 +176,7 @@
 		    <artifactId>commons-compress</artifactId>
 		    <version>1.21</version>
 		</dependency>
+		
 		<!-- JUnit 4 for running JUnit tests -->
 		<dependency>
 			<groupId>junit</groupId>
